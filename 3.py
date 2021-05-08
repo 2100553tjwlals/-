@@ -7,3 +7,6 @@ print(x, "\n")
 print(y) 
 print(z)
 print(x+z) #문자열도 합쳐쓸 수 있음 
+
+# 한줄 주석 Ctrl + /
+# 여러줄 주석 Shift + Alt + A
